@@ -1,0 +1,840 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "cat_01",
+      "name": "01. M.Tech Academics",
+      "sortOrder": 0,
+      "tasks": [
+        {
+          "id": "seed_01_01",
+          "title": "Review all subject syllabi and pending work",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_01_02",
+          "title": "Complete AI PYQs and revision",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_01_03",
+          "title": "Finish ANN notes and numericals",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_01_04",
+          "title": "Revise Hebbian learning and activation functions",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_01_05",
+          "title": "Revise mathematical concepts: modulus, magnitude, sigma",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_01_06",
+          "title": "Revise feature scaling and normalization",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_01_07",
+          "title": "Complete remaining assignments and lab records",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_01_08",
+          "title": "Prepare for upcoming semester examinations",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "cat_02",
+      "name": "02. Research & M.Tech Project",
+      "sortOrder": 1,
+      "tasks": [
+        {
+          "id": "seed_02_01",
+          "title": "Understand time-series analysis and forecasting",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_02_02",
+          "title": "Read 5 relevant research papers",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_02_03",
+          "title": "Write a literature review and comparison table",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_02_04",
+          "title": "Identify research gaps and possible improvements",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_02_05",
+          "title": "Finalize a research problem with my guide",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_02_06",
+          "title": "Select a dataset and baseline models",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_02_07",
+          "title": "Implement experiments and evaluate results",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_02_08",
+          "title": "Prepare research report, presentation and GitHub repository",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "cat_03",
+      "name": "03. DSA & Coding Interviews",
+      "sortOrder": 2,
+      "tasks": [
+        {
+          "id": "seed_03_01",
+          "title": "Choose one primary DSA language",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_03_02",
+          "title": "Understand time and space complexity",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_03_03",
+          "title": "Arrays, strings and hashing",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_03_04",
+          "title": "Two pointers, sliding window and binary search",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_03_05",
+          "title": "Linked lists, stacks and queues",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_03_06",
+          "title": "Recursion, backtracking and sorting",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_03_07",
+          "title": "Trees, BST, heaps and graphs",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_03_08",
+          "title": "Greedy algorithms and dynamic programming",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "seed_03_09",
+          "title": "Solve timed coding problems",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 8
+        },
+        {
+          "id": "seed_03_10",
+          "title": "Attend mock coding interviews",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 9
+        }
+      ]
+    },
+    {
+      "id": "cat_04",
+      "name": "04. Core CS Interview Subjects",
+      "sortOrder": 3,
+      "tasks": [
+        {
+          "id": "seed_04_01",
+          "title": "OOP principles and design concepts",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_04_02",
+          "title": "DBMS, normalization and SQL queries",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_04_03",
+          "title": "SQL joins, indexes and transactions",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_04_04",
+          "title": "Operating systems: processes, threads and deadlocks",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_04_05",
+          "title": "Computer networks: TCP/IP, DNS, HTTP and HTTPS",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_04_06",
+          "title": "Git, GitHub and Linux commands",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_04_07",
+          "title": "REST APIs and basic system design",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_04_08",
+          "title": "Practice explaining each topic aloud",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "cat_05",
+      "name": "05. Backend Development",
+      "sortOrder": 4,
+      "tasks": [
+        {
+          "id": "seed_05_01",
+          "title": "Revise JavaScript fundamentals and ES6+",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_05_02",
+          "title": "Master promises, async/await and event loop",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_05_03",
+          "title": "Learn Node.js, Express and middleware",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_05_04",
+          "title": "Understand authentication, JWT, hashing and RBAC",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_05_05",
+          "title": "Revise MySQL database design",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_05_06",
+          "title": "Learn testing, logging, validation and error handling",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_05_07",
+          "title": "Revise Java and Spring Boot fundamentals",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_05_08",
+          "title": "Build and deploy one complete backend application",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "seed_05_09",
+          "title": "Study basic caching, queues and scalable API design",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 8
+        }
+      ]
+    },
+    {
+      "id": "cat_06",
+      "name": "06. Python, AI & ML Skills",
+      "sortOrder": 5,
+      "tasks": [
+        {
+          "id": "seed_06_01",
+          "title": "Complete pending Python course",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_06_02",
+          "title": "Revise NumPy and pandas",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_06_03",
+          "title": "Practice data preprocessing and feature engineering",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_06_04",
+          "title": "Revise regression and classification algorithms",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_06_05",
+          "title": "Understand model metrics and cross-validation",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_06_06",
+          "title": "Learn scikit-learn model pipelines",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_06_07",
+          "title": "Learn PyTorch fundamentals",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_06_08",
+          "title": "Practice time-series forecasting",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "seed_06_09",
+          "title": "Deploy a small ML model with an API",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 8
+        }
+      ]
+    },
+    {
+      "id": "cat_07",
+      "name": "07. Projects & Portfolio",
+      "sortOrder": 6,
+      "tasks": [
+        {
+          "id": "seed_07_01",
+          "title": "Organize project folder structure",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_07_02",
+          "title": "Build one production-style backend/full-stack project",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_07_03",
+          "title": "Build one end-to-end ML/time-series project",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_07_04",
+          "title": "Write proper GitHub READMEs and setup instructions",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_07_05",
+          "title": "Add tests and sample screenshots",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_07_06",
+          "title": "Deploy working demos",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_07_07",
+          "title": "Create a portfolio website",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_07_08",
+          "title": "Pin best GitHub repositories",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "id": "cat_08",
+      "name": "08. Resume, Profile & Interview",
+      "sortOrder": 7,
+      "tasks": [
+        {
+          "id": "seed_08_01",
+          "title": "Update one-page resume in Overleaf",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_08_02",
+          "title": "Make targeted Backend and AI/ML resume versions",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_08_03",
+          "title": "Update LinkedIn headline, About and experience",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_08_04",
+          "title": "Clean and organize GitHub profile",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_08_05",
+          "title": "Prepare 60–90 second self-introduction",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_08_06",
+          "title": "Prepare STAR stories from internship and projects",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_08_07",
+          "title": "Practice explaining every resume project",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_08_08",
+          "title": "Prepare HR interview answers and communication skills",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "seed_08_09",
+          "title": "Attend at least one mock interview weekly",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 8
+        }
+      ]
+    },
+    {
+      "id": "cat_09",
+      "name": "09. Jobs, Internships & Networking",
+      "sortOrder": 8,
+      "tasks": [
+        {
+          "id": "seed_09_01",
+          "title": "Make a target-company and role list",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_09_02",
+          "title": "Check campus placement and internship opportunities",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_09_03",
+          "title": "Set up job alerts on relevant platforms",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_09_04",
+          "title": "Apply to suitable jobs and internships consistently",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_09_05",
+          "title": "Tailor resume to job descriptions truthfully",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_09_06",
+          "title": "Request relevant referrals professionally",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_09_07",
+          "title": "Track applications and recruiter replies",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        },
+        {
+          "id": "seed_09_08",
+          "title": "Follow up on pending applications appropriately",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 7
+        },
+        {
+          "id": "seed_09_09",
+          "title": "Research GSoC 2027 organizations and contribution paths",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 8
+        }
+      ]
+    },
+    {
+      "id": "cat_10",
+      "name": "10. Personal, Admin & Growth",
+      "sortOrder": 9,
+      "tasks": [
+        {
+          "id": "seed_10_01",
+          "title": "Follow up on pending RTO/driving-licence work if unresolved",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 0
+        },
+        {
+          "id": "seed_10_02",
+          "title": "Track important reminders and document deadlines",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 1
+        },
+        {
+          "id": "seed_10_03",
+          "title": "Organize study materials and computer files",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 2
+        },
+        {
+          "id": "seed_10_04",
+          "title": "Write a technical blog post periodically",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 3
+        },
+        {
+          "id": "seed_10_05",
+          "title": "Exercise and maintain adequate sleep",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 4
+        },
+        {
+          "id": "seed_10_06",
+          "title": "Track personal expenses and upcoming payments",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 5
+        },
+        {
+          "id": "seed_10_07",
+          "title": "Review unfinished tasks every Sunday",
+          "completed": false,
+          "priority": "normal",
+          "dueAt": null,
+          "reminderAt": null,
+          "sortOrder": 6
+        }
+      ]
+    }
+  ]
+}

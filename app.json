@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "FocusBook",
+    "slug": "focusbook",
+    "scheme": "focusbook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.focusbook.app",
+      "adaptiveIcon": { "backgroundColor": "#F7F4EE" },
+      "permissions": ["POST_NOTIFICATIONS", "VIBRATE"]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      ["expo-notifications", { "defaultChannel": "reminders", "color": "#557B68" }]
+    ],
+    "experiments": { "typedRoutes": true }
+  }
+}
